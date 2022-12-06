@@ -1,13 +1,13 @@
 //
-//  ImageMapAppUITests.swift
-//  ImageMapAppUITests
+//  PhotoAppUITests.swift
+//  PhotoAppUITests
 //
-//  Created by William Chin on 11/8/22.
+//  Created by William Chin on 12/5/22.
 //
 
 import XCTest
 
-class ImageMapAppUITests: XCTestCase {
+class PhotoAppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ImageMapAppApp: App {
+struct PhotoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
