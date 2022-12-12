@@ -1,8 +1,9 @@
 # Photo App
 William Chin
-680 Mobile Development 
-
 920174512
+
+
+680 Mobile Development 
 
 This Project Has 2 Screens: Home and Edit Photo
 
