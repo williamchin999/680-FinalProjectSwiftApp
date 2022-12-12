@@ -1,6 +1,5 @@
 # Photo App
-William Chin
-920174512
+William Chin: 920174512
 
 
 680 Mobile Development 
